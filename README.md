@@ -10,4 +10,5 @@ Es la encargada de detectar el tamaño de pantalla de su visitante y crea, almac
  |...|...|
 
 **Imagenes acerda de las adaptive images:** 
+
 [image.png](https://postimg.cc/YhP0kJS2)
