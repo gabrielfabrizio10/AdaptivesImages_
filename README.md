@@ -1,6 +1,6 @@
 # AdaptivesImages_
 **¿Qué es la adaptive images?** 
-Es la encargada de detectar el tamaño de pantalla de su visitante y crea, almacena en caché y entrega automáticamente versiones reescaladas apropiadas para el dispositivo de las imágenes HTML incrustadas de su página web
+Es la encargada de detectar el tamaño de pantalla de su visitante crea aparte de almacenar en caché y entregar automáticamente versiones reescaladas apropiadas para el dispositivo de las imágenes HTML incrustadas de su página web
 |Adaptiva|Sensible|
   | :----------- | :----------- |
  |crea plantillas que son óptimas y únicas para cada clase de dispositivo|Diseño único que fluye a través de la pantalla|
