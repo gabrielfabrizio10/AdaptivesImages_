@@ -7,7 +7,6 @@ Es la encargada de detectar el tamaño de pantalla de su visitante y crea, almac
  |Del lado del cliente|Del lado del server|
  |Rejillas de Fluidos|Diseños Predefinidos|
  |Los servidores utilizan HTML que está preseleccionado para diferentes dispositivos||La cuadrícula es flexible y las imágenes tienen el tamaño correcto para la pantalla del dispositivo|
- |...|...|
 
 **Imagenes acerda de las adaptive images:** 
 
