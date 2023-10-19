@@ -11,8 +11,7 @@ Es la encargada de detectar el tamaño de pantalla de su visitante crea aparte d
  |Rejillas de Fluidos|Diseños Predefinidos|
  |Los servidores utilizan HTML que está preseleccionado para diferentes dispositivos|La cuadrícula es flexible y las imágenes tienen el tamaño correcto para la pantalla del dispositivo|
 
-Si queremos cambiar el cambio de resolución? 
-Si queremos mostrar la misma imagen, más grande o más pequeña dependiendo del dispositivo
+Así que si queremos cambiar el cambio de resolución por si es que queremos mostrar la misma imagen, más grande o más pequeña dependiendo del dispositivo
 Deberiamos usar los codigos
 
 [![image.png](https://i.postimg.cc/pTSywc2D/image.png)](https://postimg.cc/k6xn8cR4)
