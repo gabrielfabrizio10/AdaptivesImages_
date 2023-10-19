@@ -32,6 +32,8 @@ Así nos quedaria dependiendo la imagen que pongamos
 [![image.png](https://i.postimg.cc/XqVGcB7P/image.png)](https://postimg.cc/tZM49T6d)
 
 
+Aunque como curiosidad existen mas codigos en HTML para poder cambiar el formato de la imagen que queramos cambiar
+
 
 Tutorial adicional de como hacerlo:
 
