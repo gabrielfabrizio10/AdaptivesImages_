@@ -32,7 +32,6 @@ Así nos quedaria dependiendo la imagen que pongamos
 [![image.png](https://i.postimg.cc/XqVGcB7P/image.png)](https://postimg.cc/tZM49T6d)
 
 
-[![image.png](https://i.postimg.cc/jS1SWYst/image.png)](https://postimg.cc/18pQTTnj)
 
 Tutorial adicional de como hacerlo:
 
